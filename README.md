@@ -11,11 +11,11 @@ Free Python Botnet
 - The code is ofuscated because skids can steal it.
 
 ### Usage
-* Enter Victims IP
-* Enter port
-* Choose your type of attack
-* Select your attack method
-* Choose the number of threads
-* Press "Enter" to start attack
+1. Enter Victims IP
+2. Enter port
+3. Choose your type of attack
+4. Select your attack method
+5. Choose the number of threads
+6. Press "Enter" to start attack
 
 
