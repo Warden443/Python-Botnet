@@ -1,21 +1,19 @@
 # Python Botnet
-Free Python Botnet
+Mi botnet de Python
 
 ## ShowCase
 
-![img1](https://cdn.discordapp.com/attachments/892477043902652426/892484643285250078/unknown.png)
+! [img1] (https://cdn.discordapp.com/attachments/892477043902652426/892484643285250078/unknown.png)
 
-## About
+## Sobre
 
-- This is a botnet that I traduced to python.
-- The code is ofuscated because skids can steal it.
+- Esta es una botnet que traduje a Python.
+- El código está ofuscado para que los skiddies no me lo roben.
 
-### Usage
-1. Enter Victims IP
-2. Enter port
-3. Choose your type of attack
-4. Select your attack method
-5. Choose the number of threads
-6. Press "Enter" to start attack
-
-
+### Uso
+1. Introduzca la IP de la víctima.
+2. Ingrese el puerto.
+3. Elija su tipo de ataque.
+4. Seleccione su método de ataque.
+5. Elija el número de hilos.
+6. Presiona "Enter" para iniciar el ataque.
