@@ -5,7 +5,7 @@ Mi botnet de Python
 
 ![img1](https://cdn.discordapp.com/attachments/892477043902652426/892484643285250078/unknown.png)
 
-## Sobre
+## Info
 
 - Esta es una botnet que traduje a Python.
 - El código está ofuscado para que los skiddies no me lo roben.
