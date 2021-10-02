@@ -3,7 +3,7 @@ Mi botnet de Python
 
 ## ShowCase
 
-! [img1] (https://cdn.discordapp.com/attachments/892477043902652426/892484643285250078/unknown.png)
+![img1](https://cdn.discordapp.com/attachments/892477043902652426/892484643285250078/unknown.png)
 
 ## Sobre
 
