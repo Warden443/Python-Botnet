@@ -7,8 +7,7 @@ Mi botnet de Python
 
 ## Info
 
-- Esta es una botnet que traduje a Python.
-- El código está ofuscado para que los skiddies no me lo roben.
+- Este es antiguo proyecto, una botnet basada en py
 
 ### Uso
 1. Introduzca la IP de la víctima.
